@@ -13,7 +13,7 @@ This repository aims at mirroring popular semantic segmentation architectures in
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="364"/></a>
-<img src="https://meetshah1995.github.io/images/blog/ss/ptsemseg.png" width="49%"/>
+<img src="https://www.meetshah.dev/images/blog/ss/ptsemseg.png" width="49%"/>
 </p>
 
 
